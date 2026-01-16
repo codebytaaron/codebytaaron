@@ -62,3 +62,19 @@ to lightweight games and prototypes designed to move fast and learn.
 If something here is interesting or useful,<br/>
 feel free to reach out using the link above.
 </p>
+---
+
+<!-- USAGE NOTICE -->
+<p align="center">
+<strong>Usage Notice</strong>
+</p>
+
+<p align="center">
+This repository is public for visibility and reference purposes only.<br/>
+Please do not use, copy, modify, or redistribute this project without prior permission.
+</p>
+
+<p align="center">
+If you are interested in using this project, extending it, or collaborating,<br/>
+reach out via the link above so we can discuss proper usage.
+</p>
