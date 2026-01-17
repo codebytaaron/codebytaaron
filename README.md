@@ -1,7 +1,7 @@
 <!-- HERO -->
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:05070f,50:0b1220,100:111827&text=Code%20By%20T%20Aaron&fontColor=ffffff&fontSize=58&fontAlign=50&fontAlignY=40&desc=UI%20•%20Automation%20•%20AI%20Builds&descAlign=50&descAlignY=66&animation=fadeIn"
+    src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:05070f,50:0b1220,100:111827&text=Code%20By%20T%20Aaron&fontColor=ffffff&fontSize=58&fontAlign=50&fontAlignY=38&desc=UI%20•%20Automation%20•%20AI%20Builds&descAlign=50&descAlignY=68&animation=scaleIn"
     alt="Code By T Aaron"
   />
 </p>
@@ -34,14 +34,14 @@
 <h2 align="center">What I Do</h2>
 
 <p align="center">
-I build and publish AI projects across GitHub and Hugging Face.<br/>
-My work includes interactive demos, custom models, automation tools,<br/>
-full websites, paywall systems, and experimental products like SootheNote.
+  I build and publish AI projects across GitHub and Hugging Face.<br/>
+  My work includes interactive demos, custom models, automation tools,<br/>
+  full websites, paywall systems, and experimental products like SootheNote.
 </p>
 
 <p align="center">
-I’ve shipped 30+ projects ranging from production-ready tools<br/>
-to lightweight games and prototypes designed to move fast and learn.
+  I’ve shipped 30+ projects ranging from production-ready tools<br/>
+  to lightweight games and prototypes designed to move fast and learn.
 </p>
 
 ---
@@ -59,22 +59,23 @@ to lightweight games and prototypes designed to move fast and learn.
 
 <!-- MINI CLOSE -->
 <p align="center">
-If something here is interesting or useful,<br/>
-feel free to reach out using the link above.
+  If something here is interesting or useful,<br/>
+  feel free to reach out using the link above.
 </p>
+
 ---
 
 <!-- USAGE NOTICE -->
 <p align="center">
-<strong>Usage Notice</strong>
+  <strong>Usage Notice</strong>
 </p>
 
 <p align="center">
-This repository is public for visibility and reference purposes only.<br/>
-Please do not use, copy, modify, or redistribute this project without prior permission.
+  This repository is public for visibility and reference purposes only.<br/>
+  Please do not use, copy, modify, or redistribute this project without prior permission.
 </p>
 
 <p align="center">
-If you are interested in using this project, extending it, or collaborating,<br/>
-reach out via the link above so we can discuss proper usage.
+  If you are interested in using this project, extending it, or collaborating,<br/>
+  reach out via the link above so we can discuss proper usage.
 </p>
