@@ -1,7 +1,7 @@
 <!-- HERO -->
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:05070f,50:0b1220,100:111827&text=Code%20By%20T%20Aaron&fontColor=ffffff&fontSize=58&fontAlign=50&fontAlignY=38&desc=UI%20•%20Automation%20•%20AI%20Builds&descAlign=50&descAlignY=68&animation=scaleIn"
+    src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:05070f,50:0b1220,100:111827&text=Code%20By%20T%20Aaron&fontColor=ffffff&fontSize=58&fontAlign=50&fontAlignY=50&animation=scaleIn"
     alt="Code By T Aaron"
   />
 </p>
@@ -17,7 +17,6 @@
 
 <!-- QUICK SIGNALS -->
 <p align="center">
-  <img src="https://img.shields.io/badge/Focus-UI%20%26%20Automation-111827?style=for-the-badge&labelColor=05070f" />
   <img src="https://img.shields.io/badge/Build-Practical%20AI%20Tools-111827?style=for-the-badge&labelColor=05070f" />
   <img src="https://img.shields.io/badge/Ship-Consistently-111827?style=for-the-badge&labelColor=05070f" />
 </p>
