@@ -19,7 +19,7 @@
 <p align="center">
   I build and publish AI projects across GitHub and Hugging Face.<br/>
   My work includes interactive demos, custom models, automation tools,<br/>
-  full websites, paywall systems, and experimental products like SootheNote.
+  full websites, paywall systems, and experimental products.
 </p>
 
 <p align="center">
