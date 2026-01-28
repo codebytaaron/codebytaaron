@@ -6,12 +6,6 @@
   />
 </p>
 
-<!-- VALUE STATEMENT -->
-<p align="center">
-  <strong>Student builder shipping real products.</strong><br/>
-  UI-first apps, automation systems, and practical AI tools.
-</p>
-
 <!-- CONTACT CTA -->
 <p align="center">
   <a href="https://docs.google.com/forms/d/e/1FAIpQLSeO7hfacboPuDoWRhCuhr7wKSYE5L6GcDqWh-ZXjRl6f2haig/viewform?usp=header">
