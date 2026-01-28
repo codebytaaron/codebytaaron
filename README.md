@@ -13,16 +13,6 @@
   </a>
 </p>
 
----
-
-<!-- QUICK SIGNALS -->
-<p align="center">
-  <img src="https://img.shields.io/badge/Build-Practical%20AI%20Tools-111827?style=for-the-badge&labelColor=05070f" />
-  <img src="https://img.shields.io/badge/Ship-Consistently-111827?style=for-the-badge&labelColor=05070f" />
-</p>
-
----
-
 <!-- ABOUT -->
 <h2 align="center">What I Do</h2>
 
