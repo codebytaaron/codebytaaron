@@ -46,25 +46,6 @@
 
 ---
 
-<!-- WHAT I BUILD -->
-<h2 align="center">What I Build</h2>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/UI-Dashboards%20%26%20Interfaces-111827?style=for-the-badge&labelColor=05070f" />
-  <img src="https://img.shields.io/badge/Automation-Workflows%20%26%20Agents-111827?style=for-the-badge&labelColor=05070f" />
-  <img src="https://img.shields.io/badge/AI-Tools%20That%20Ship-111827?style=for-the-badge&labelColor=05070f" />
-</p>
-
----
-
-<!-- MINI CLOSE -->
-<p align="center">
-  If something here is interesting or useful,<br/>
-  feel free to reach out using the link above.
-</p>
-
----
-
 <!-- USAGE NOTICE -->
 <p align="center">
   <strong>Usage Notice</strong>
