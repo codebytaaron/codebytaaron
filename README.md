@@ -13,11 +13,6 @@
 <p align="center">
   I like building things that are actually useful and easy to use.
 </p>
-
-<p align="center">
-  Always learning, improving, and shipping new ideas.
-</p>
-
 <p align="center">
   If you want to collaborate, work together, or just connect:
 </p>
