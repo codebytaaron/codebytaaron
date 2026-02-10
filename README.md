@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  I work on a lot of projects, from simple sites to fully functional platforms.
+  I work on a lot of projects, from simple websites to fully functional platforms.
 </p>
 
 <p align="center">
@@ -11,7 +11,15 @@
 </p>
 
 <p align="center">
-  If you want to get in touch:
+  I like building things that are actually useful and easy to use.
+</p>
+
+<p align="center">
+  Always learning, improving, and shipping new ideas.
+</p>
+
+<p align="center">
+  If you want to collaborate, work together, or just connect:
 </p>
 
 <p align="center">
@@ -19,18 +27,3 @@
     Contact me
   </a>
 </p>
-
-<!--
-**codebytaaron/codebytaaron** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
