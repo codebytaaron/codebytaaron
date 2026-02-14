@@ -6,7 +6,7 @@
 <br />
 
 <p align="center">
-  I work on a lot of projects, from simple websites to fully functional platforms.
+I do lots of projects, simple websites to fully functional platforms.
 </p>
 
 <br />
