@@ -6,26 +6,26 @@
 <br />
 
 <p align="center">
-I do lots of projects, simple websites to fully functional platforms.
+  I build projects, from simple sites to full platforms.
 </p>
 
 <br />
 
 <p align="center">
-  Most of my work lives on GitHub instead of locally, which is why my contributions are high.
+  Most of my work is hosted on GitHub, which reflects my activity.
 </p>
 
 <br />
 
 <p align="center">
-  I like building things that are actually useful and easy to use.
+  I focus on creating useful, easy-to-use products.
 </p>
 
 <br />
 <br />
 
 <p align="center">
-  If you want to collaborate, work together, or just connect:
+  Interested in collaborating or connecting?
 </p>
 
 <br />
