@@ -6,7 +6,7 @@
 <br />
 
 <p align="center">
-  I build projects, from simple sites to full platforms.
+  I build projects, from simple sites to full platforms!
 </p>
 
 <br />
