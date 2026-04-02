@@ -6,7 +6,7 @@
 <br />
 
 <p align="center">
-  I build projects, from simple sites to full platforms!
+  I build projects, from simple sites to full platforms.
 </p>
 
 <br />
@@ -18,14 +18,14 @@
 <br />
 
 <p align="center">
-  I focus on creating useful, easy-to-use products.
+  I focus on creating useful, easy-to-use product.
 </p>
 
 <br />
 <br />
 
 <p align="center">
-  Interested in collaborating or connecting?
+  Interested in collaborating or connecting? 
 </p>
 
 <br />
