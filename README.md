@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  Most of my work is available on GitHub, where you can follow my projects and development activity.
+  Most of my work is private on GitHub, contact me to see my private projects. 
 </p>
 
 <p align="center">
