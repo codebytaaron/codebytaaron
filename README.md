@@ -1,6 +1,6 @@
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=220&section=header&text=codebytaaron&fontSize=52&fontColor=ffffff&fontAlignY=38&animation=fadeIn"
+    src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=170&section=header&text=codebytaaron&fontSize=52&fontColor=ffffff&fontAlignY=38&animation=fadeIn"
     alt="codebytaaron"
     width="100%"
   />
@@ -8,7 +8,7 @@
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&lines=I+build+everything+from+simple+websites+to+full-scale+platforms."
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&height=35&lines=I+build+everything+from+simple+websites+to+full-scale+platforms."
     alt="I build everything from simple websites to full-scale platforms."
   />
 </p>
@@ -20,8 +20,6 @@
 <p align="center">
   I focus on building useful, intuitive products that solve real problems.
 </p>
-
-<br />
 
 <p align="center">
   Interested in collaborating or connecting?
@@ -38,7 +36,7 @@
 
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=110&section=footer"
+    src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=70&section=footer"
     width="100%"
     alt=""
   />
