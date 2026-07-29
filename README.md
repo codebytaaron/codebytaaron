@@ -1,6 +1,6 @@
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=160&section=header&text=codebytaaron&fontSize=48&fontColor=ffffff&fontAlignY=38&animation=fadeIn"
+    src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=155&section=header&text=codebytaaron&fontSize=48&fontColor=ffffff&fontAlignY=38&animation=fadeIn"
     alt="codebytaaron"
     width="100%"
   />
@@ -8,17 +8,15 @@
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=760&height=30&lines=Building+simple+websites%2C+powerful+apps%2C+and+full-scale+platforms."
-    alt="Building websites, apps, and platforms"
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=760&height=28&lines=Building+websites%2C+apps%2C+and+full-scale+platforms."
+    alt="Building websites, apps, and full-scale platforms"
   />
 </p>
 
 <p align="center">
-  <sub>
-    I build clean, intuitive products designed to solve real problems.
-    <br />
-    Most of my projects are private. Contact me below to explore my work.
-  </sub>
+  I build clean, intuitive products that solve real problems.
+  <br />
+  Most of my projects are private. Contact me below to view my work.
 </p>
 
 <p align="center">
@@ -28,14 +26,6 @@
       alt="Contact Me"
     />
   </a>
-</p>
-
-<p align="right">
-  <img
-    src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHJkZXpsNjJudTlucTR6MzY1eWkxOGs5dGFnaWpxZHo4aGZiajNmMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/tdqdc71dYWHyaU4E1f/giphy.gif"
-    alt="Red car driving"
-    width="190"
-  />
 </p>
 
 <p align="center">
