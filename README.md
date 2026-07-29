@@ -8,21 +8,17 @@
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&height=35&lines=I+build+everything+from+simple+websites+to+full-scale+platforms."
-    alt="I build everything from simple websites to full-scale platforms."
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=750&height=35&lines=Building+everything+from+simple+websites+to+full-scale+platforms."
+    alt="Building everything from simple websites to full-scale platforms."
   />
 </p>
 
 <p align="center">
-  Most of my work is private on GitHub, contact me to see my private projects. 
+  I build clean, intuitive products that solve real problems.
 </p>
 
 <p align="center">
-  I focus on building useful, intuitive products that solve real problems.
-</p>
-
-<p align="center">
-  Interested in collaborating or connecting?
+  Most of my projects are private. Contact me below to learn more and view my work.
 </p>
 
 <p align="center">
