@@ -1,37 +1,41 @@
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=2563EB&height=155&section=header&text=codebytaaron&fontSize=48&fontColor=FFFFFF&fontAlignY=38&animation=fadeIn"
-    alt="codebytaaron header"
+    src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:050505,35:111827,70:2563EB,100:7C3AED&text=Hello&fontColor=FFFFFF&fontSize=52&fontAlignY=38&animation=fadeIn"
     width="100%"
+    alt="Hello"
   />
 </p>
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&width=760&height=28&lines=Building+websites%2C+apps%2C+and+full-scale+platforms."
-    alt="Building websites, apps, and full-scale platforms"
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&duration=1800&pause=500&color=3B82F6&center=true&vCenter=true&width=780&height=35&lines=I+build+websites+for+people%2C+tech+products%2C+apps%2C+and+more.;My+work+solves+real+problems.;I+turn+ideas+into+working+products."
+    alt="Animated introduction"
   />
 </p>
 
 <p align="center">
-  I build clean, intuitive products that solve real problems.
-  <br />
-  Most of my projects are private. Contact me to learn more about my work.
+  <sub>
+    Most of my repositories are private.
+    <br />
+    Contact me to view my portfolio and see more of my work.
+  </sub>
 </p>
+
+<br />
 
 <p align="center">
   <a href="https://docs.google.com/forms/d/1Yd7y_KBy9O5vD_dn-Lxaz6uDXVooUvJKRndAMVVoHks/viewform">
     <img
-      src="https://img.shields.io/badge/CONTACT_ME-2563EB?style=for-the-badge&logo=gmail&logoColor=white"
-      alt="Contact Me"
+      src="https://img.shields.io/badge/VIEW_PORTFOLIO-0A0A0A?style=for-the-badge&logoColor=white"
+      alt="View Portfolio"
     />
   </a>
 </p>
 
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=2563EB&height=55&section=footer"
-    alt="Blue footer"
-    width="100%"
+    src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:050505,30:2563EB,65:7C3AED,100:050505"
+    width="65%"
+    alt=""
   />
 </p>
