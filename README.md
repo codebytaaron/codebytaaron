@@ -29,30 +29,6 @@ Websites, AI-powered applications, and digital products built to solve real prob
 <tr>
 <td width="33%" valign="top">
 
-**01 / WEB**
-
-Custom websites and digital experiences for businesses, organizations, and individuals.
-
-</td>
-<td width="33%" valign="top">
-
-**02 / AI & SOFTWARE**
-
-Intelligent applications, stock market tools, and research platforms.
-
-</td>
-<td width="33%" valign="top">
-
-**03 / IMPACT**
-
-Healthcare technology supporting cancer patients, caregivers, and everyday life.
-
-</td>
-</tr>
-</table>
-
-<br>
-
 ### There's more behind the scenes.
 
 Most of my work lives in **private repositories**, including client projects, unreleased products, and applications that have never been publicly showcased.
