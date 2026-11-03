@@ -1,42 +1,40 @@
 
 <div align="center">
 
-<sub>INDEPENDENT DEVELOPMENT & DIGITAL PRODUCTS</sub>
+  <sub>INDEPENDENT DEVELOPMENT & DIGITAL PRODUCTS</sub>
 
-# codebytaaron.
+  <h1>codebytaaron.</h1>
 
-**Developer  /  Entrepreneur  /  Founder**
+  <p><strong>Developer &nbsp;·&nbsp; Entrepreneur &nbsp;·&nbsp; Founder</strong></p>
 
-Websites, AI-powered applications, and digital products built to solve real problems.
+  <p>
+    Websites, AI-powered applications, and digital products<br>
+    built to solve real-world problems.
+  </p>
 
-<br>
+  <br>
 
-<a href="https://teddyaaron.com">
-  <img src="https://img.shields.io/badge/EXPLORE_MY_WORK-18181B?style=for-the-badge&logo=googlechrome&logoColor=white" />
-</a>
-&nbsp;
-<a href="https://tally.so/r/68qpyP">
-  <img src="https://img.shields.io/badge/GET_IN_TOUCH-2563EB?style=for-the-badge&logo=maildotru&logoColor=white" />
-</a>
+  <a href="https://teddyaaron.com">
+    <img src="https://img.shields.io/badge/Explore_My_Work-18181B?style=for-the-badge&logoColor=white" alt="Explore My Work">
+  </a>
+  &nbsp;
+  <a href="https://tally.so/r/68qpyP">
+    <img src="https://img.shields.io/badge/Get_in_Touch-2563EB?style=for-the-badge&logoColor=white" alt="Get in Touch">
+  </a>
 
-<br><br>
+  <br><br><br>
 
-</div>
+  <h3>Beyond the public repositories.</h3>
 
----
+  <p>
+    Most of my work is private, from client projects to unreleased products<br>
+    and applications that have never been publicly showcased.
+  </p>
 
-<table>
-<tr>
-<td width="33%" valign="top">
+  <p>
+    <a href="https://tally.so/r/68qpyP"><strong>Interested in seeing more? Let's connect ↗</strong></a>
+  </p>
 
-### There's more behind the scenes.
+  <br>
 
-Most of my work lives in **private repositories**, including client projects, unreleased products, and applications that have never been publicly showcased.
-
-**[Get in touch to explore more of my work ↗](https://tally.so/r/68qpyP)**
-
----
-
-<div align="center">
-<sub>BUILT BY TEDDY AARON · <a href="https://teddyaaron.com">TEDDYAARON.COM</a></sub>
 </div>
