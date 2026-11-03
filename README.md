@@ -1,40 +1,19 @@
 
-<div align="center">
+<sub>INDEPENDENT DEVELOPMENT & DIGITAL PRODUCTS</sub>
 
-  <sub>INDEPENDENT DEVELOPMENT & DIGITAL PRODUCTS</sub>
+# codebytaaron.
 
-  <h1>codebytaaron.</h1>
+**Developer / Entrepreneur / Founder**
 
-  <p><strong>Developer &nbsp;·&nbsp; Entrepreneur &nbsp;·&nbsp; Founder</strong></p>
+Websites, AI-powered applications, and digital products built to solve real problems.
 
-  <p>
-    Websites, AI-powered applications, and digital products<br>
-    built to solve real-world problems.
-  </p>
+[![Portfolio](https://img.shields.io/badge/VIEW_PORTFOLIO-18181B?style=flat-square&logo=googlechrome&logoColor=white)](https://teddyaaron.com)
+[![Contact](https://img.shields.io/badge/GET_IN_TOUCH-2563EB?style=flat-square&logo=maildotru&logoColor=white)](https://tally.so/r/68qpyP)
 
-  <br>
+---
 
-  <a href="https://teddyaaron.com">
-    <img src="https://img.shields.io/badge/Explore_My_Work-18181B?style=for-the-badge&logoColor=white" alt="Explore My Work">
-  </a>
-  &nbsp;
-  <a href="https://tally.so/r/68qpyP">
-    <img src="https://img.shields.io/badge/Get_in_Touch-2563EB?style=for-the-badge&logoColor=white" alt="Get in Touch">
-  </a>
-
-  <br><br><br>
-
-  <h3>Beyond the public repositories.</h3>
-
-  <p>
-    Most of my work is private, from client projects to unreleased products<br>
-    and applications that have never been publicly showcased.
-  </p>
-
-  <p>
-    <a href="https://tally.so/r/68qpyP"><strong>Interested in seeing more? Let's connect ↗</strong></a>
-  </p>
-
-  <br>
-
-</div>
+> **BEYOND THE PUBLIC REPOSITORIES**
+>
+> Most of my work lives in private repositories, including client projects, unreleased products, and applications never publicly showcased.
+>
+> **[Interested in seeing more? Reach out ↗](https://tally.so/r/68qpyP)**
